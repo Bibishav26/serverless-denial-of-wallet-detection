@@ -15,7 +15,7 @@
 </div>
 
 > [!NOTE]
-> the source code, processed data and trained models stay private. This repository only describes the approach and what I learned. The underlying dataset is public (see [Dataset](#-dataset)).
+> This is the **client project** , so the source code, processed data and trained models stay private. This repository only describes the approach and what I learned. The underlying dataset is public (see [Dataset](#-dataset)).
 
 ---
 
@@ -262,6 +262,6 @@ J. M. Ortega Candel, F. J. Mora Gimeno, H. Mora, *"Generation of a dataset for D
 
 <div align="center">
 
-**🔒 Source code is private
+**🔒 (client project) Source code is private
 
 </div>
